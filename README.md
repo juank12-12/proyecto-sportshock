@@ -1,6 +1,6 @@
 # SportShock - Tienda de Ropa Deportiva
 
-Este proyecto es una aplicación web desarrollada con Java Servlets y JSP como parte de la evidencia de producto GA7-220501096-AA2-EV02.
+Este proyecto es una aplicación web desarrollada con Java Servlets y JSP
 
 ## Descripción
 
