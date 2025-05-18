@@ -1,16 +1,16 @@
-# Compiled class files
+# Archivos compilados de Java (por si acaso)
 *.class
 
-# Log files
+# Archivos de log
 *.log
 
-# BlueJ files
+# Archivos temporales de BlueJ
 *.ctxt
 
-# Mobile Tools for Java (J2ME)
+# Archivos temporales Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files
+# Archivos de empaquetado Java
 *.jar
 *.war
 *.nar
@@ -19,7 +19,7 @@
 *.tar.gz
 *.rar
 
-# IDE files
+# Archivos de IDEs comunes
 .idea/
 .vscode/
 *.iml
@@ -27,10 +27,34 @@
 .classpath
 .settings/
 
-# Build directories
+# Carpetas de build o compilación
 target/
 build/
 out/
 
-# Local configuration
-*.properties.local 
+# Archivos de configuración local
+*.properties.local
+
+# Archivos específicos de entornos PHP y web
+.env
+config.php
+
+# Archivos temporales y backups
+*.tmp
+*.bak
+*.swp
+
+# Archivos del sistema (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Archivos y carpetas de dependencias o caché comunes en PHP/NodeJS
+vendor/
+node_modules/
+.cache/
+coverage/
+
+# Archivos de base de datos (si existieran)
+*.sql
+*.sqlite
+*.db
